@@ -12,3 +12,6 @@ I have made a login signup with using of mongodb and express of NodeJS framework
   -bcrypt
   -Body-Parser
 ```
+
+To run  the file used server.js file
+
